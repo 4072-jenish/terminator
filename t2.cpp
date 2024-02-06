@@ -1,3 +1,7 @@
+/*
+Q2. Create hybrid inheritance and remove ambiguity permanently.
+
+*/
 #include<iostream>
 
 using namespace std;
